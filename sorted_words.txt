@@ -1,0 +1,8 @@
+apple
+banana
+fighting
+health
+home
+oss
+student
+test

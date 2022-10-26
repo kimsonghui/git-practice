@@ -1,0 +1,62 @@
+    1  pwd
+    2  ls
+    3  ls
+    4  cd OSS
+    5  pwd
+    6  ls
+    7  ls-1
+    8  ls -l
+    9  ls -lh
+   10  cd ../일대중
+   11  cd ..
+   12  ls
+   13  cd OSS
+   14  ls
+   15  cd 일대중
+   16  ls
+   17  ls -l
+   18  ls -lh
+   19  cd ..
+   20  ls -lh
+   21  cd 일대중/
+   22  ls 
+   23  ls 
+   24   cp 일대중 file1
+   25  cp ..
+   26  cp ..
+   27  cd ..
+   28  cp 일대중 file1
+   29   cp 일대중.py file1.py
+   30  ls
+   31  cp 일대중 file1
+   32  cp -r
+   33  cp -r 일대중 file1
+   34  ls
+   35  cd file1
+   36  ls
+   37  mv 일대중 japan
+   38  cd ...
+   39  cd ..
+   40  mv file1 name
+   41  ls
+   42  mkdir newfile
+   43  ls
+   44  rm ewr.PNG 
+   45  ls
+   46  help cd
+   47   ls -lh > file_list.txt
+   48  cat file_list.txt
+   49  ls -lh >> file_list.txt
+   50  cat file_list.txt
+   51  cat words.txt
+   52  sort < words.txt > sorted_words.txt
+   53  cat sorted_words.txt
+   54  echo *
+   55  echo ~
+   56  ls -l --reverse--human-readable
+   57  ls -l--reverse--human-readable
+   58  nano myscript.sh
+   59  sh myscript.sh
+   60  history > history_command.txt
+   61  cat history
+   62  history>history_command.txt

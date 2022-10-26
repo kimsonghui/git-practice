@@ -1,0 +1,16 @@
+total 4.0K
+drwxr-xr-x 1 김송희 197121 0 Oct 24 23:10 apple/
+drwxr-xr-x 1 김송희 197121 0 Oct 24 23:10 file2/
+drwxr-xr-x 1 김송희 197121 0 Oct 24 23:10 file3/
+-rw-r--r-- 1 김송희 197121 0 Oct 25 00:08 file_list.txt
+drwxr-xr-x 1 김송희 197121 0 Oct 24 23:10 name/
+drwxr-xr-x 1 김송희 197121 0 Oct 24 23:16 newfile/
+drwxr-xr-x 1 김송희 197121 0 Oct 24 21:14 일대중/
+total 5.0K
+drwxr-xr-x 1 김송희 197121   0 Oct 24 23:10 apple/
+drwxr-xr-x 1 김송희 197121   0 Oct 24 23:10 file2/
+drwxr-xr-x 1 김송희 197121   0 Oct 24 23:10 file3/
+-rw-r--r-- 1 김송희 197121 387 Oct 25 00:08 file_list.txt
+drwxr-xr-x 1 김송희 197121   0 Oct 24 23:10 name/
+drwxr-xr-x 1 김송희 197121   0 Oct 24 23:16 newfile/
+drwxr-xr-x 1 김송희 197121   0 Oct 24 21:14 일대중/
